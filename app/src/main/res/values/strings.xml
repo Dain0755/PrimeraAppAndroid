@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClaseLayOuts</string>
+    <string name="calculadora_de_areas">Calculadora de areas</string>
+    <string name="lado_1">Lado 1</string>
+    <string name="Ingrese_el_valor_lado_1">Ingrese el valor del lado 1</string>
+    <string name="lado_2">Lado 2</string>
+    <string name="Ingrese_el_valor_lado_2">Ingrese el valor del lado 2</string>
+    <string name="lado_3">Lado 3</string>
+    <string name="Ingrese_el_valor_lado_3">Ingrese el valor del lado 3</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Cuadraro">Cuadrado</string>
+    <string name="Resultado">Resultado:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Nada"></string>
+</resources>
